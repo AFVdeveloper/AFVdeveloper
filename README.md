@@ -1,25 +1,17 @@
-<center>
 
-<h1>Ali Farghani Vatqan | AFVdeveloper</h1>
+<h1>Ali Farghani Vayqan | AFVdeveloper</h1>
 <h3>Front-End Developer | Angular Specialist</h3>
 
 <p>
 Building scalable, clean, and user-focused web interfaces  
-<br>
-Based in Tehran, Iran
 </p>
-
-</center>
 
 <hr>
 
 <h2>👋 About Me</h2>
 
 <p>
-Hello, I’m Ali Farghani, a Front-End Developer with hands-on experience in building
-modern web applications using Angular.
-I started my professional journey in web development in October 2023 and have been
-working on real-world projects ever since.
+Front-End Developer specializing in Angular, building modern, scalable web applications with a focus on performance, clean architecture, and user experience.
 </p>
 
 <hr>
@@ -53,19 +45,9 @@ working on real-world projects ever since.
   <td>Email</td>
   <td>afv.developer@gmail.com</td>
 </tr>
-<tr>
-  <td>Phone</td>
-  <td>+98 923 290 2863</td>
-</tr>
-<tr>
-  <td>Location</td>
-  <td>Iran</td>
-</tr>
 </table>
-
 <hr>
 
-<center>
-<h6 aligh="center">© 2025 Ali Farghani</h6>
-</center>
+<h6>© 2025 Ali Farghani</h6>
+
 
